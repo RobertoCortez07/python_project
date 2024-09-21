@@ -96,7 +96,7 @@ Python and Tableau show relatively stable demand throughout the year with some f
 
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first, I looked at the salary distributions of typical data jobs like Data Scientist, Data Engineer, and Data Analyst to understand which jobs are paid the most.
 
-View my notebook with detailed steps here: [4_Salary_Analysis](4_Salary_Analysis.ipynb)
+View my notebook with detailed steps here: [4_Salary_Analysis](DA_project/4_Salary_Analysis.ipynb)
 ### Visualize Data 
 
 ```python
@@ -129,7 +129,7 @@ plt.show()
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
 
-View my notebook with detailed steps here: [5_Optimal_Skills](5_Optimal_Skills.ipynb)
+View my notebook with detailed steps here: [5_Optimal_Skills](DA_project/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 ```python
